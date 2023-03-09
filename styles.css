@@ -1,0 +1,22 @@
+#word-weird{
+    font-size: x-large;
+    font-weight: bolder;
+    background-color: greenyellow;
+    color: coral;
+    font-family: fantasy;
+}
+.old-style{
+    font-style: italic;
+    font-family: cursive;
+    font-size: larger;
+    background-color: burlywood;
+    color: darkslategrey;
+}
+.new-style{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-stretch: extra-condensed;
+    background-color: black;
+    color: greenyellow;
+}
